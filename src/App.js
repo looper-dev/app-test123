@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://liff.line.me/1657480365-lWEJq6AO"
+          href="https://app-test123.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
