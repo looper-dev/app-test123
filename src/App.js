@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          เริ่มต้น <code>สร้าง และ</code> การพัฒนา react.
+        เครดิตฟรีล่าสุด <code>แจกไม่อั้น กดรับได้ทันที</code> ไม่ต้องรอนาน.
         </p>
         <a
           className="App-link"
-          href="https://app-test123.vercel.app/"
+          href="https://dev.looperdev.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          ทดสอบ
+          เครดิตฟรีล่าสุด
         </a>
       </header>
     </div>
