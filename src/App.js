@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        เครดิตฟรีล่าสุด <code>แจกไม่อั้น กดรับได้ทันที</code> ไม่ต้องรอนาน.
+        เครดิตฟรีล่าสุด<code>แจกไม่อั้น</code>กดรับได้ทันที.
         </p>
         <a
           className="App-link"
