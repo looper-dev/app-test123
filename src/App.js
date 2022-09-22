@@ -7,14 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        เครดิตฟรีล่าสุด<code>แจกไม่อั้น</code>กดรับได้ทันที.
+          เครดิตฟรี <code>ล่าสุด</code>แจกไม่อั้นกดรับได้ทันที.
         </p>
-        <Button
-        onPress={onPressLearnMore}
-        title="Learn More"
-        color="#841584"
-        accessibilityLabel="Learn more about this purple button"
-      />
+        <a
+          className="App-link"
+          href="https://looper-dev.github.io/credit-free-50"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          สร้าง เว็บแอพ ด้วย React
+        </a>
       </header>
     </div>
   );
