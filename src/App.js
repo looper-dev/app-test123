@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://looper-dev.github.io/credit-free-50"
+          href="https://liff.line.me/1657475303-ZrW3J29d"
           target="_blank"
           rel="noopener noreferrer"
         >
-          สร้าง เว็บแอพ ด้วย React
+          เครดิตฟรีล่าสุด
         </a>
       </header>
     </div>
