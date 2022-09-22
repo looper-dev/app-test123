@@ -9,14 +9,12 @@ function App() {
         <p>
         เครดิตฟรีล่าสุด<code>แจกไม่อั้น</code>กดรับได้ทันที.
         </p>
-        <a
-          className="App-link"
-          href="https://dev.looperdev.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          เครดิตฟรีล่าสุด
-        </a>
+        <Button
+        onPress={onPressLearnMore}
+        title="Learn More"
+        color="#841584"
+        accessibilityLabel="Learn more about this purple button"
+      />
       </header>
     </div>
   );
